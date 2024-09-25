@@ -17,7 +17,7 @@ YouTube Clone is a web application developed using React.js that replicates esse
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/aditya2732002/Youtube-Fronted-Clone/blob/main/static/media/React%20App%20-%20Google%20Chrome%2025-09-2024%2020_33_08.png" alt="Home Page" width="500"/>
+      <img src="https://github.com/aditya2732002/Youtube-Fronted-Clone/blob/main/static/media/React%20App%20-%20Google%20Chrome%2025-09-2024%2020_33_08.png" alt="Home Page" width="900"/>
       <p>Home Page</p>
     </td>
   </tr>
