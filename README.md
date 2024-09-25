@@ -20,18 +20,6 @@ YouTube Clone is a web application developed using React.js that replicates esse
       <img src="https://example.com/homepage-screenshot.jpg" alt="Home Page" width="200"/>
       <p>Home Page</p>
     </td>
-    <td style="text-align: center;">
-      <img src="https://example.com/trending-screenshot.jpg" alt="Trending Page" width="200"/>
-      <p>Trending Page</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://example.com/music-screenshot.jpg" alt="Music Page" width="200"/>
-      <p>Music Page</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://example.com/search-screenshot.jpg" alt="Search Page" width="200"/>
-      <p>Search Page</p>
-    </td>
   </tr>
 </table>
 
